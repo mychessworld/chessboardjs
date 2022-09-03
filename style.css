@@ -1,0 +1,9 @@
+.center1 {
+    width:100%;
+    display: flex;
+    justify-content: center;
+}
+
+.marg {
+    margin-bottom: 30px;
+}
